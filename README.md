@@ -1,4 +1,4 @@
-Create a virtual environment using `requirements.txt` file following the commands:
+Create a virtual environment using `requirements.txt` file following the commands (for now we don't use any external lib):
 
 ```
 > pip install virtualenv
@@ -6,3 +6,5 @@ Create a virtual environment using `requirements.txt` file following the command
 > .\env\Script\activate
 (env) > .\env\Script\python.exe -m pip install -r requirements.txt
 ```
+
+## [Youtube playlist](https://www.youtube.com/playlist?list=PLCIagbUWzv_ra08xtgaNXahUCDxODHvxp) for this repo.
